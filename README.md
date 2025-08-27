@@ -1,6 +1,6 @@
 # 🎵 Spotify Explorer
 
-A simple TypeScript CLI tool to search Spotify and display the top tracks for any keyword.
+A TypeScript based CLI tool to search Spotify and display the top tracks for any keyword.
 
 ## 🚀 Features
 
