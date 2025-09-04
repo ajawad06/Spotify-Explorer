@@ -42,3 +42,4 @@ SPOTIFY_CLIENT_SECRET=your_client_secret
 npm start <keyword>
 e.g. npm start lofi
 ```
+
